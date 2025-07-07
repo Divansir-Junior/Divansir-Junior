@@ -6,6 +6,8 @@
 [![Divansir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Divansir-Junior&show_icons=true&theme=dracula&cache_seconds=30)](https://github.com/Divansir-Junior)
 
 
+
+
 ## Linguagens 
 <div style= "display : inline_block"> <br>
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
