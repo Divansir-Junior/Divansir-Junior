@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/juniorscrobut?igsh=MWUzeDF3NDh0cXVvZA==)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divonsir-scrobut)
 
-![Divansir GitHub stats](https://github-readme-stats.vercel.app/api?username=Divansir-Juniorr&show_icons=true&theme=dracula)
+![Divansir Scrobut GitHub stats](https://github-readme-stats.vercel.app/api?username=Divansir-Junior&show_icons=true&theme=dracula)
 
 ## Linguagens 
 <div style= "display : inline_block"> <br>
