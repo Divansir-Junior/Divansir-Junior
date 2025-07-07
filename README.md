@@ -1,6 +1,6 @@
 ### Olá,sou o Divansir Scrobut Júnior
-[![GitHub](https://img.shields.io/badge/Facebook-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/junior.scrobut.2025)
-[![GitHub](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/juniorscrobut?igsh=MWUzeDF3NDh0cXVvZA==)
+[![Facebook](https://img.shields.io/badge/Facebook-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/junior.scrobut.2025)
+[![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/juniorscrobut?igsh=MWUzeDF3NDh0cXVvZA==)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divonsir-scrobut)
 
 ![Divansir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Divansir-Junior&show_icons=true&theme=dracula)
