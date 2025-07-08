@@ -3,8 +3,18 @@
 [![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/juniorscrobut?igsh=MWUzeDF3NDh0cXVvZA==)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divonsir-scrobut)
 
-[![Divansir GitHub stats](https://github-readme-stats.vercel.app/api?username=Divansir-Junior&show_icons=true&theme=dracula&cache_seconds=30)](https://github.com/Divansir-Junior)
 
+<table>
+  <tr>
+    <td>
+     <img src="https://github-readme-stats.vercel.app/api?username=Divansir-Junior&show_icons=true&theme=dracula&hide_border=true&bg_color=181424" />
+    </td>
+    <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divansir-Junior&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=181424" />
+      
+    
+  </tr>
+</table>
 
 
 
