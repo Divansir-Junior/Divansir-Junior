@@ -6,7 +6,7 @@
 
 ---
 
-### 🚀 Estatísticas GitHub + Linguagens
+### 🚀 Desenvolvimento
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Divansir-Junior&show_icons=true&theme=dracula&hide_border=true&bg_color=181424&cache_seconds=1" alt="GitHub Stats" height="180"/>
