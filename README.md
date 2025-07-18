@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td>
-     <img src="https://github-readme-stats.vercel.app/api?username=Divansir-Junior&show_icons=true&theme=dracula&hide_border=true&bg_color=181424" />
+     <img src="https://github-readme-stats.vercel.app/api?username=Divansir-Junior&show_icons=true&theme=dracula&hide_border=true&bg_color=181424&cache_seconds=70" />
     </td>
     <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divansir-Junior&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=181424" />
