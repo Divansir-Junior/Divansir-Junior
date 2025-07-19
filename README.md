@@ -9,7 +9,7 @@
 ### 🚀 Desenvolvimento
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divansir-Junior&show_icons=true&theme=dracula&hide_border=true&bg_color=181424&cache_seconds=0" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Divansir-Junior&show_icons=true&theme=dracula&hide_border=true&bg_color=181424&cache_seconds=67" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divansir-Junior&layout=compact&theme=dracula&hide_border=true&bg_color=181424" alt="Top Languages" height="180"/>
 </p>
 
