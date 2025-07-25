@@ -68,7 +68,7 @@
   <!-- STREAK E COMMITS ) -->
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=divansir-junior&theme=highcontrast" alt="GitHub Streak" />
   &nbsp;&nbsp;
-  <img height="180em" src="https://readme-private.vercel.app/api?username=Divansir-Junior&show_icons=true&count_private=true&include_all_commits=true&show_private=true&theme=radical" alt="GitHub Stats" />
+  <img height="180em" src="https://readme-private.vercel.app/api?username=Divansir-Junior&show_icons=true&count_private=true&include_all_commits=true&show_private=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
 
 
 </div>
