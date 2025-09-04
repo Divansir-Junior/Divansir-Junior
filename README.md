@@ -85,7 +85,7 @@
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divansir-junior&theme=high-contrast&color=00ccff&line=00ccff&point=ffffff&bg_color=000000" alt="Gráfico de atividade" /> <br></br>
+   <br></br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Divansir-Junior&show_icons=true&theme=highcontrast&title_color=0091ff&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="Top Langs" />
       <img height="165x" src="https://github-profile-trophy.vercel.app/?username=Divansir-Junior&theme=discord&title=Commit,Repository,Contributor&rank=S,A&column=3" alt="GitHub Trophies" />
 
