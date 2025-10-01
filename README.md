@@ -81,18 +81,6 @@
 
 <hr>
 
-# 📊 Estatísticas
-
-<div align="center">
-
-   <br></br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Divansir-Junior&show_icons=true&theme=highcontrast&title_color=0091ff&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="Top Langs" />
-      <img height="165x" src="https://github-profile-trophy.vercel.app/?username=Divansir-Junior&theme=discord&title=Commit,Repository,Contributor&rank=S,A&column=3" alt="GitHub Trophies" />
-
-<br><br>
-
-<hr>
-
 <h1>🤝 CONTATO </h1>
 
 <div align="center">
