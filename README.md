@@ -1,8 +1,7 @@
 <h1 align="center">Olá! 👋 Eu sou o Divansir Junior</h1>
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0092ff&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+perfil!;+Java+%7C+Spring+Boot+%7C+API+REST" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0092ff&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!;+Estudante+de+ADS+pela+PUC-PR;+Java+%7C+Spring+Boot+%7C+Python+%7C+Data+Science" />
 </p>
 
 ---
@@ -11,13 +10,25 @@
   <img src="https://img.shields.io/badge/SITE-Divansir-blue?style=for-the-badge&logo=vercel" alt="Meu Portfólio" />
 </a>
 
+---
 
-<h1>🤓 Sobre mim  </h1>
+<h1>🤓 Sobre mim</h1>
 
-<p>🎓 Estudante apaixonado por desenvolvimento Back-End com Java </p>
-<p>🔧 Atualmente desenvolvendo aplicações com Spring Boot</p>
+<p>🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> pela <strong>PUC-PR</strong>, apaixonado por tecnologia e aprendizado contínuo.</p>
 
-<h3 align="left">🖥️ Linguagens e ferramentas:</h3>
+<p>💻 Atuo principalmente no desenvolvimento <strong>Back-End</strong> com <strong>Java</strong> e <strong>Spring Boot</strong>, criando APIs REST escaláveis e bem estruturadas.</p>
+
+<p>🌐 Tenho experiência com <strong>HTML, CSS e JavaScript</strong> para construção de interfaces e aplicações Web.</p>
+
+<p>🐍 Também trabalho com <strong>Python</strong> em projetos voltados para <strong>análise de dados, automação e ciência de dados</strong>.</p>
+
+<p>🛢️ Conhecimento em bancos de dados relacionais como <strong>MySQL e SQL Server</strong>.</p>
+
+<p>⚙️ Sempre buscando escrever código limpo, aprender novas tecnologias e desenvolver soluções que unam performance e usabilidade.</p>
+
+---
+
+<h3 align="left">🖥️ Tecnologias e Ferramentas:</h3>
 <p align="left">
   <!-- HTML -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -49,6 +60,26 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 
+  <!-- Pandas -->
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+
+  <!-- NumPy -->
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+  </a>
+
+  <!-- Matplotlib -->
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
+  </a>
+
+  <!-- Jupyter -->
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
+  </a>
+
   <!-- SQL Server -->
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
@@ -63,34 +94,15 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
+
+  <!-- Excel -->
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" alt="excel" width="40" height="40"/>
+  </a>
+
+  <!-- Word -->
+  <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftword.svg" alt="word" width="40" height="40"/>
+  </a>
 </p>
-
-<hr>
-
-# 🔥 CONTRIBUIÇÃO 
-
-<div align="center">
-
-  <!-- STREAK E COMMITS ) -->
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=divansir-junior&theme=react" alt="GitHub Streak" />
-  &nbsp;&nbsp;
-  <img height="180em" src="https://readme-private.vercel.app/api?username=Divansir-Junior&show_icons=true&count_private=true&include_all_commits=true&show_private=true&theme=react&cache_seconds=1800" alt="GitHub Stats" />
-
-
-</div>
-
-<hr>
-
-<h1>🤝 CONTATO </h1>
-
-<div align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=scrobutj@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/divonsir-scrobut" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
-
 
