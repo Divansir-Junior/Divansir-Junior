@@ -77,12 +77,23 @@ Focused on clean architecture, performance and modern technologies.
 # 📈 GitHub Statistics
 
 
-<p align = "center">
-    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=chartreuse-dark&fontFamily=&preferLogin=false">
-    <img  alt="Divansir-Junior's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Divansir-Junior?cardType=level&theme=chartreuse-dark&fontFamily=&preferLogin=false" />
+<p align="center">
+  <img 
+  src="https://github-readme-stats-private-beta.vercel.app/api?username=Divansir-Junior&show_icons=true&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00" 
+  alt="GitHub Stats — Divansir-Junior" 
+/>
+
   </a>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Divansir-Junior&theme=soft-green&hide_border=true" alt="GitHub Streak" /></a>
+
+  <a href="https://git.io/streak-stats">
+    <img 
+      alt="GitHub Streak"
+      height="180em"
+      src="https://github-readme-streak-stats.herokuapp.com?user=Divansir-Junior&theme=dark&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA&hide_border=true" 
+    />
+  </a>
 </p>
+
 
 
 
