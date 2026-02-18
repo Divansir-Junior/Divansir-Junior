@@ -76,31 +76,21 @@ Focused on clean architecture, performance and modern technologies.
 
 # 📈 GitHub Statistics
 
-
 <p align="center">
   <img 
-  src="https://github-readme-stats-private-beta.vercel.app/api?username=Divansir-Junior&show_icons=true&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00" 
-  alt="GitHub Stats — Divansir-Junior" 
-/>
-
-  </a>
-
-  <a href="https://git.io/streak-stats">
-    <img 
-      alt="GitHub Streak"
-      height="180em"
-      src="https://github-readme-streak-stats.herokuapp.com?user=Divansir-Junior&theme=dark&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA&hide_border=true" 
-    />
-  </a>
+    height="200em"
+    src="https://github-readme-stats-private-beta.vercel.app/api?username=Divansir-Junior&show_icons=true&bg_color=000000&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&border_color=000000&hide_border=true" 
+  />
+  
+  <img 
+    height="200em"
+    src="https://github-readme-streak-stats.herokuapp.com?user=Divansir-Junior&theme=dark&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA&hide_border=true" 
+  />
 </p>
-
-
-
 
 ---
 
 ## 🟢 System Status
-
 ```bash
 $ whoami
 Data Engineer | Software Engineer
