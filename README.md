@@ -5,12 +5,19 @@ Private notes:
 - Improve: cloud, system design
 -->
 
-# Developer
+# Full Stack Engineer | Data Engineer
 
 Software Engineering Student  
-Data Engineer | Software Engineer  
 
 [Portfolio](https://divansir.vercel.app/)
+
+---
+
+```
+[ ] Backend: Java, Spring Boot, Spring Security, Node.js, SQL
+[ ] Frontend: HTML, CSS, JavaScript, TypeScript, React, Angular
+[ ] Data: Python, Pandas, NumPy
+```
 
 ---
 
@@ -18,19 +25,6 @@ Data Engineer | Software Engineer
 
 I build scalable applications, secure APIs and data-driven systems.  
 Focused on clean architecture, performance and modern technologies.
-
----
-
-## ## Tech Stack
-
-**# Frontend**  
-HTML, CSS, JavaScript, TypeScript, React, Angular  
-
-**# Backend**  
-Node.js, Java, Spring Boot, Spring Security, SQL  
-
-**# Data**  
-Python, Pandas, NumPy  
 
 ---
 
@@ -46,7 +40,7 @@ Python, Pandas, NumPy
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Divansir-Junior&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Divansir-Junior&theme=dark&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Divansir-Junior&theme=dark&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&hide_border=true&include_all_commits=true" />
 </p>
 
 ---
