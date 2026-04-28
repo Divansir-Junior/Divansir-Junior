@@ -21,14 +21,14 @@ Software Engineering Student
 
 ---
 
-## ## About
+## ● About
 
 I build scalable applications, secure APIs and data-driven systems.  
 Focused on clean architecture, performance and modern technologies.
 
 ---
 
-## ## Most Used Languages
+## • Most Used Languages
 
 <p align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divansir-Junior&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&hide_border=true" />
@@ -36,7 +36,7 @@ Focused on clean architecture, performance and modern technologies.
 
 ---
 
-## ## GitHub Stats
+## • GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Divansir-Junior&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" />
@@ -45,7 +45,7 @@ Focused on clean architecture, performance and modern technologies.
 
 ---
 
-## ## Summary
+## •Summary
 
 - Focused on backend and data engineering  
 - Experience with APIs, authentication and scalable systems  
