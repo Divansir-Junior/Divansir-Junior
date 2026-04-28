@@ -14,8 +14,6 @@ Software Engineering Student | Data Engineer | Software Engineer
 <a href="https://divansir.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/ACCESS_PORTFOLIO-0D1117?style=for-the-badge&color=00C853&logoColor=00C853&labelColor=0D1117" />
 </a>
-
-
 </p>
 
 ## 🧠 About Me
@@ -23,15 +21,11 @@ Software Engineering Student | Data Engineer | Software Engineer
 ```bash
 class Developer {
     name = "Divansir Scrobut";
-    education = [
-        "ADS - PUC PR",
-        "Software Engineering - Unicesumar"
-    ];
     roles = ["Data Engineer", "Software Engineer"];
 }
 ```
 
-I build scalable applications, secure APIs and data-driven systems.
+I build scalable applications, secure APIs and data-driven systems.  
 Focused on clean architecture, performance and modern technologies.
 
 ---
@@ -41,25 +35,75 @@ Focused on clean architecture, performance and modern technologies.
 ## 🌐 Frontend
 
 <p align="center">
-  
+
+
+
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
+
+
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+
+
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+
+
+
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+
+
+
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-</p>
+
+
+
 </p>
 
 ---
 
-## ⚙ Backend
+## ⚙️ Backend
 
 <p align="center">
 
+
+
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+
+
+
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
+
+
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+
+
+
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+
+
+
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 
 </p>
@@ -67,13 +111,34 @@ Focused on clean architecture, performance and modern technologies.
 ---
 
 ## 📊 Data & Analytics
+
 <p align="center">
-  
+
+
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+
+
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+
+
+
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+
+
+
 ![Seaborn](https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge)
+
+
 
 </p>
 
@@ -82,18 +147,14 @@ Focused on clean architecture, performance and modern technologies.
 # 📈 GitHub Statistics
 
 <p align="center">
-  <img width="48%" 
-    src="https://github-readme-stats-private-beta.vercel.app/api?username=Divansir-Junior&show_icons=true&bg_color=000000&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&hide_border=true" 
-  />
-  <img width="48%" 
-    src="https://github-readme-streak-stats.herokuapp.com?user=Divansir-Junior&theme=dark&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA&hide_border=true" 
-  />
+  <img width="48%" src="https://github-readme-stats-private-beta.vercel.app/api?username=Divansir-Junior&show_icons=true&bg_color=000000&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Divansir-Junior&theme=dark&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA&hide_border=true" />
 </p>
-
 
 ---
 
 ## 🟢 System Status
+
 ```bash
 $ whoami
 Data Engineer | Software Engineer
